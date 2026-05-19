@@ -316,3 +316,5 @@ Average results for 100 vertices:
 4. Cormen, T. H.; Leiserson, C. E.; Rivest, R. L.; Stein, C. *Introduction to Algorithms*.
 5. CP-Algorithms: Dinic's algorithm.
 6. CP-Algorithms: Edmonds-Karp algorithm.
+#   d i n i c - m a x f l o w - b e n c h m a r  
+ 
