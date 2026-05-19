@@ -1,0 +1,10 @@
+build/
+*.exe
+*.out
+*.o
+*.obj
+__pycache__/
+.venv/
+myenv/
+results/*.csv
+results/*.png
